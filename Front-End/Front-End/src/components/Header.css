@@ -1,0 +1,22 @@
+#logoID{
+    margin-left: 170%;
+}
+
+.navbar-brand
+{
+    font-family: "Passions Conflict";
+    font-size: 80px;
+    margin-left: 30px;
+}
+
+.brand-logo
+{
+    
+    max-width: 100px;
+    margin-top: -30px;
+}
+
+.blackbackground
+{
+    background-color: black;
+}
